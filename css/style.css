@@ -1,0 +1,29 @@
+body{
+	max-width: 80%;
+	margin: 0 auto;
+}
+img{
+  float:left;
+  margin: 7px 7px 7px 7px;
+}
+.table{
+  width: 100%;
+  display: table; 
+  text-align: left;
+}
+.table-row{
+  display: table-row;
+}
+.table-cell{
+  display: table-cell;
+  float: left; 
+  width: 30%; 
+  padding: 10px; 
+}
+.table-cell-center{
+  display: table-cell;
+  float: left; 
+  width: 50%; 
+  padding: 10px;
+  margin-left: 31%;	
+}
