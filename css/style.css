@@ -6,6 +6,9 @@ img{
   float:left;
   margin: 7px 7px 7px 7px;
 }
+ul{
+  line-height: 1.5em;
+}
 .table{
   width: 100%;
   display: table; 
@@ -17,7 +20,7 @@ img{
 .table-cell{
   display: table-cell;
   float: left; 
-  width: 30%; 
+  width: 40%; 
   padding: 10px; 
 }
 .table-cell-center{
